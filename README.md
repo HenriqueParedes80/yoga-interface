@@ -2,7 +2,7 @@
  
 
 
-<img src="./assets/tela login yoga.png" width="250px" alt="imagem tela login">  <img src="./assets/print yoga2.png" width="250px" alt="imagem tela login2">
+<img src="./tela login yoga.png" width="250px" alt="imagem tela login">  <img src="./print yoga2.png" width="250px" alt="imagem tela login2">
 
 
 Tela de login de aplicação mobile
